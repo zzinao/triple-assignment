@@ -1,6 +1,6 @@
 # Triple_Clone Coding Assignment - FE
 
-## 💻 프로젝트 샐행 방법
+## 💻 프로젝트 실행 방법
 1. 프로젝트 클론하거나 다운 받습니다. 
 
 ```console
