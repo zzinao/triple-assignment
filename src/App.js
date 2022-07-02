@@ -1,4 +1,3 @@
-import React from 'react'
 import Section from './sections/Section'
 import GlobalStyle from './styles/globalStyle'
 
